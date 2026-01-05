@@ -1,4 +1,4 @@
-html,
+ehtml,
 body {
     border: 0;
     font-family: Helvetica-Neue, Helvetica, Arial, sans-serif;
@@ -117,3 +117,10 @@ a img {
 :focus {
     outline: 0
 }
+
+                    "jackbox-talks": {
+                        file: "script.js",
+                        css: ["assets/style-0.css","slideshow-display.css"],
+                        base: "main/pp7/jackboxtalks",
+                        version: "5.25.0"
+                    },
